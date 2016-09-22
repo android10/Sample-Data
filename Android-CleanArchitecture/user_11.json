@@ -1,6 +1,6 @@
 {
     "id": 11,
-    "cover_url": "http://www.android10.org/myapi/cover_2.jpg",
+    "cover_url": "https://github.com/android10/Sample-Data/blob/master/Android-CleanArchitecture/cover_2.jpg",
     "full_name": "Roger Marshall",
     "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
     "followers": 5134,
