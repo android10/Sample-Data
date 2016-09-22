@@ -1,6 +1,6 @@
 {
     "id": 3,
-    "cover_url": "https://github.com/android10/Sample-Data/blob/master/Android-CleanArchitecture/cover_3.jpg",
+    "cover_url": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture/cover_3.jpg",
     "full_name": "Angelina Johnston",
     "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
     "followers": 2700,
