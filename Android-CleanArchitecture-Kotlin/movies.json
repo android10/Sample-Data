@@ -1,128 +1,74 @@
 [
     {
         "id": "038001",
-        "title": "The Dark Knight",
-        "year": "2008",
-        "poster": "N/A",
-        "color": "FFFFFF"
+        "poster": "N/A"
     },
     {
         "id": "038002",
-        "title": "Iron Man 3",
-        "year": "2013",
-        "poster": "N/A",
-        "color": "FFFFFF"
+        "poster": "N/A"
     },
     {
         "id": "038003",
-        "title": "Man of Steel",
-        "year": "2013",
-        "poster": "N/A",
-        "color": "FFFFFF"
+        "poster": "N/A"
     },
     {
         "id": "038004",
-        "title": "The Wolverine",
-        "year": "2013",
-        "poster": "N/A",
-        "color": "FFFFFF"
+        "poster": "N/A"
     },
     {
         "id": "038005",
-        "title": "Thor: The Dark World",
-        "year": "2013",
-        "poster": "N/A",
-        "color": "FFFFFF"
+        "poster": "N/A"
     },
     {
         "id": "038006",
-        "title": "Guardians of the Galaxy",
-        "year": "2014",
-        "poster": "N/A",
-        "color": "FFFFFF"
+        "poster": "N/A"
     },                    
     {
         "id": "038007",
-        "title": "Teenage Mutant Ninja Turtles",
-        "year": "2014",
-        "poster": "N/A",
-        "color": "FFFFFF"
+        "poster": "N/A"
     },
     {
         "id": "038008",
-        "title": "Avengers: Age of Ultron",
-        "year": "2015",
-        "poster": "N/A",
-        "color": "FFFFFF"
+        "poster": "N/A"
     },
     {
         "id": "038009",
-        "title": "Fantastic Four",
-        "year": "2015",
-        "poster": "N/A",
-        "color": "FFFFFF"
+        "poster": "N/A"
     },
     {
         "id": "038010",
-        "title": "Deadpool",
-        "year": "2016",
-        "poster": "N/A",
-        "color": "FFFFFF"
+        "poster": "N/A"
     },
     {
         "id": "038011",
-        "title": "Captain America: Civil War",
-        "year": "2016",
-        "poster": "N/A",
-        "color": "FFFFFF"
+        "poster": "N/A"
     },
     {
         "id": "038012",
-        "title": "X-Men: Apocalypse",
-        "year": "2016",
-        "poster": "N/A",
-        "color": "FFFFFF"
+        "poster": "N/A"
     },  
     {
         "id": "038013",
-        "title": "Suicide Squad",
-        "year": "2016",
-        "poster": "N/A",
-        "color": "FFFFFF"
+        "poster": "N/A"
     },
     {
         "id": "038014",
-        "title": "Doctor Strange",
-        "year": "2016",
-        "poster": "N/A",
-        "color": "FFFFFF"
+        "poster": "N/A"
     },
     {
         "id": "038015",
-        "title": "Wonder Woman",
-        "year": "2017",
-        "poster": "N/A",
-        "color": "FFFFFF"
+        "poster": "N/A"
     },
     {
         "id": "038016",
-        "title": "Spider-Man: Homecoming",
-        "year": "2017",
-        "poster": "N/A",
-        "color": "FFFFFF"
+        "poster": "N/A"
     },
     {
         "id": "038017",
-        "title": "Justice League",
-        "year": "2017",
-        "poster": "N/A",
-        "color": "FFFFFF"
+        "poster": "N/A"
     },
     {
         "id": "038018",
-        "title": "Aquaman",
-        "year": "2018",
-        "poster": "N/A",
-        "color": "FFFFFF"
+        "poster": "N/A"
     }              
 ]
