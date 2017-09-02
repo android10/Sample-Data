@@ -82,5 +82,17 @@
     {
         "id": "038021",
         "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038021.jpg"
+    },
+    {
+        "id": "038022",
+        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038022.jpg"
+    },
+    {
+        "id": "038023",
+        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038023.jpg"
+    },
+    {
+        "id": "038024",
+        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038024.jpg"
     }                           
 ]
