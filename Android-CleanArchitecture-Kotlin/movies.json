@@ -94,5 +94,29 @@
     {
         "id": "038024",
         "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038024.jpg"
-    }                           
+    },
+    {
+        "id": "038025",
+        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038025.jpg"
+    },
+    {
+        "id": "038026",
+        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038026.jpg"
+    },
+    {
+        "id": "038027",
+        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038027.jpg"
+    },
+    {
+        "id": "038028",
+        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038028.jpg"
+    },
+    {
+        "id": "038029",
+        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038029.jpg"
+    },
+    {
+        "id": "038030",
+        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038030.jpg"
+    }
 ]
