@@ -1,10 +1,10 @@
 {
-	"id": "038001",
-	"title": "300 Rise of an Empire",
-    "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038001.jpg",
-    "summary": "After its victory over Leonidas' 300, the Persian Army under the command of Xerxes marches towards the major Greek city-states. The Democratic city of Athens, first on the path of Xerxes' army, bases its strength on its fleet, led by admiral Themistocles. Themistocles is forced to an unwilling alliance with the traditional rival of Athens, oligarchic Sparta whose might lies with its superior infantry troops. But Xerxes still reigns supreme in numbers over sea and land.",
-    "cast": "Sullivan Stapleton, Eva Green, Lena Headey",
-	"director":  "Noam Murro",
-    "year": "2014",
-    "trailer": "https://www.youtube.com/watch?v=2zqy21Z29ps"
+	"id": "038003",
+	"title": "Man of Steel",
+    "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038003.jpg",
+    "summary": "A young boy learns that he has extraordinary powers and is not of this Earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.",
+    "cast": "Henry Cavill, Amy Adams, Michael Shannon",
+	"director":  "Zack Snyder",
+    "year": "2013",
+    "trailer": "https://www.youtube.com/watch?v=T6DJcgm3wNY"
 }

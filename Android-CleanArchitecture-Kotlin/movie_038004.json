@@ -1,10 +1,10 @@
 {
-	"id": "038001",
-	"title": "300 Rise of an Empire",
-    "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038001.jpg",
-    "summary": "After its victory over Leonidas' 300, the Persian Army under the command of Xerxes marches towards the major Greek city-states. The Democratic city of Athens, first on the path of Xerxes' army, bases its strength on its fleet, led by admiral Themistocles. Themistocles is forced to an unwilling alliance with the traditional rival of Athens, oligarchic Sparta whose might lies with its superior infantry troops. But Xerxes still reigns supreme in numbers over sea and land.",
-    "cast": "Sullivan Stapleton, Eva Green, Lena Headey",
-	"director":  "Noam Murro",
-    "year": "2014",
-    "trailer": "https://www.youtube.com/watch?v=2zqy21Z29ps"
+	"id": "038004",
+	"title": "Thor: The Dark World",
+    "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038004.jpg",
+    "summary": "A year after Loki's devastating alien attack on New York, the Mighty Thor along with his friends Lady Sif and the Warriors Three fight to save the Nine Realms from deadly threats. When Thor's girlfriend Jane Foster discovers a fluid like weapon called the Aether, she unknowingly awakens the evil Malekith and his Dark Elf army. With this, Asgard may be facing it's darkest hour. Thor forms an uneasy alliance with his nemesis Loki to save Jane, stop Malekith and save the Nine Realms from total chaos and darkness.",
+    "cast": "Chris Hemsworth, Natalie Portman, Tom Hiddleston",
+	"director":  "Alan Taylor",
+    "year": "2013",
+    "trailer": "https://www.youtube.com/watch?v=npvJ9FTgZbM"
 }
