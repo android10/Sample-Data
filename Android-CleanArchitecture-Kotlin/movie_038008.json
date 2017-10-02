@@ -1,10 +1,10 @@
 {
-	"id": "038001",
-	"title": "300 Rise of an Empire",
-    "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038001.jpg",
-    "summary": "After its victory over Leonidas' 300, the Persian Army under the command of Xerxes marches towards the major Greek city-states. The Democratic city of Athens, first on the path of Xerxes' army, bases its strength on its fleet, led by admiral Themistocles. Themistocles is forced to an unwilling alliance with the traditional rival of Athens, oligarchic Sparta whose might lies with its superior infantry troops. But Xerxes still reigns supreme in numbers over sea and land.",
-    "cast": "Sullivan Stapleton, Eva Green, Lena Headey",
-	"director":  "Noam Murro",
-    "year": "2014",
-    "trailer": "https://www.youtube.com/watch?v=2zqy21Z29ps"
+	"id": "038008",
+	"title": "Star Trek Into Darkness",
+    "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038008.jpg",
+    "summary": "The latest mission of the USS Enterprise crew takes them into deep space to rescue an endangered species from an active volcano. However, once again Captain Kirk's reckless behavior compromises the mission and nearly gets him booted from Starfleet. Turning back to his mentor Admiral Pike, Kirk is demoted to an academy cadet and has to start over. However, when a ruthless warlord attacks Starfleet and shoots Admiral Pike in the process, Kirk takes command and takes the Enterprise deep into the neutral zone and the Klingon homeworld. Unknown to the crew, a Starfleet renegade is manipulating the Federation and the Klingons into a possible war. Kirk, Spock and the rest of the crew must stop the war before all hell breaks loose. And what awaits the crew of the USS Enterprise on their forthcoming five-year mission?",
+    "cast": "Chris Pine, Zachary Quinto, Zoe Saldana",
+	"director":  "J.J. Abrams",
+    "year": "2013",
+    "trailer": "https://www.youtube.com/watch?v=QAEkuVgt6Aw"
 }
