@@ -1,10 +1,10 @@
 {
-	"id": "038001",
-	"title": "300 Rise of an Empire",
-    "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038001.jpg",
-    "summary": "After its victory over Leonidas' 300, the Persian Army under the command of Xerxes marches towards the major Greek city-states. The Democratic city of Athens, first on the path of Xerxes' army, bases its strength on its fleet, led by admiral Themistocles. Themistocles is forced to an unwilling alliance with the traditional rival of Athens, oligarchic Sparta whose might lies with its superior infantry troops. But Xerxes still reigns supreme in numbers over sea and land.",
-    "cast": "Sullivan Stapleton, Eva Green, Lena Headey",
-	"director":  "Noam Murro",
-    "year": "2014",
-    "trailer": "https://www.youtube.com/watch?v=2zqy21Z29ps"
+	"id": "038011",
+	"title": "Star Trek",
+    "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038011.jpg",
+    "summary": "On the day of James Kirk's birth, his father dies on his damaged starship in a last stand against a Romulan mining vessel looking for Ambassador Spock, who in this time, has grown on Vulcan disdained by his neighbors for his half-human heritage. 25 years later, James T. Kirk has grown into a young rebellious troublemaker. Challenged by Captain Christopher Pike to realize his potential in Starfleet, he comes to annoy academy instructors like Commander Spock. Suddenly, there is an emergency on Vulcan and the newly-commissioned USS Enterprise is crewed with promising cadets like Nyota Uhura, Hikaru Sulu, Pavel Chekov and even Kirk himself, thanks to Leonard McCoy's medical trickery. Together, this crew will have an adventure in the final frontier where the old legend is altered forever as a new version of the legend begins.",
+    "cast": "Chris Pine, Zachary Quinto, Simon Pegg",
+	"director":  "J.J. Abrams",
+    "year": "2009",
+    "trailer": "https://www.youtube.com/watch?v=pKFUZ10Wmbw"
 }

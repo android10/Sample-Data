@@ -1,10 +1,10 @@
 {
-	"id": "038001",
-	"title": "300 Rise of an Empire",
-    "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038001.jpg",
-    "summary": "After its victory over Leonidas' 300, the Persian Army under the command of Xerxes marches towards the major Greek city-states. The Democratic city of Athens, first on the path of Xerxes' army, bases its strength on its fleet, led by admiral Themistocles. Themistocles is forced to an unwilling alliance with the traditional rival of Athens, oligarchic Sparta whose might lies with its superior infantry troops. But Xerxes still reigns supreme in numbers over sea and land.",
-    "cast": "Sullivan Stapleton, Eva Green, Lena Headey",
-	"director":  "Noam Murro",
+	"id": "038012",
+	"title": "Hidden in the Woods",
+    "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038012.jpg",
+    "summary": "Hidden in the Woods tells the story of two sisters who have been raised in isolation, subjected to the torment of their abusive, drug dealing father. When they finally decide to report him to the police, he kills the two officers and is put in jail. But things go from bad to worse when the girls must answer to their Uncle Costello, a psychotic drug kingpin, who shows up looking for his missing merchandise which is hidden in the woods.",
+    "cast": "Michael Biehn, Jeannine Kaspar, Electra Avellan",
+	"director":  "Patricio Valladares",
     "year": "2014",
-    "trailer": "https://www.youtube.com/watch?v=2zqy21Z29ps"
+    "trailer": "https://www.youtube.com/watch?v=XSvatfT5fO4"
 }
