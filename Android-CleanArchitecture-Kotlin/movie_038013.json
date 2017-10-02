@@ -1,10 +1,10 @@
 {
-	"id": "038001",
-	"title": "300 Rise of an Empire",
-    "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038001.jpg",
-    "summary": "After its victory over Leonidas' 300, the Persian Army under the command of Xerxes marches towards the major Greek city-states. The Democratic city of Athens, first on the path of Xerxes' army, bases its strength on its fleet, led by admiral Themistocles. Themistocles is forced to an unwilling alliance with the traditional rival of Athens, oligarchic Sparta whose might lies with its superior infantry troops. But Xerxes still reigns supreme in numbers over sea and land.",
-    "cast": "Sullivan Stapleton, Eva Green, Lena Headey",
-	"director":  "Noam Murro",
-    "year": "2014",
-    "trailer": "https://www.youtube.com/watch?v=2zqy21Z29ps"
+	"id": "038013",
+	"title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038013.jpg",
+    "summary": "Captain Salazar, a deadly ghost escapes the Devil's triangle with his crew and is taking over the seas in search of his arch-rival and author of all his pain, Jack Sparrow. In the meantime, Jack is approached by a boy who needs to locate the Trident of Poseidon, something he believes only Sparrow can help him find. Carina Smyth an astronomer and horologist joins the team to help them find something she believes her father had always wanted her to find. Jack's only hope is to find the mythical Trident of Poseidon, who's master gets control of all the seas, or so it's said.",
+    "cast": "Johnny Depp, Geoffrey Rush, Javier Bardem",
+	"director":  "Joachim Rønning, Espen Sandberg",
+    "year": "2017",
+    "trailer": "https://www.youtube.com/watch?v=Ak9DOPQ0Mhg"
 }
