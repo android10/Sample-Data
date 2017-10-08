@@ -1,10 +1,10 @@
 {
-	"id": "038001",
-	"title": "300 Rise of an Empire",
-    "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038001.jpg",
-    "summary": "After its victory over Leonidas' 300, the Persian Army under the command of Xerxes marches towards the major Greek city-states. The Democratic city of Athens, first on the path of Xerxes' army, bases its strength on its fleet, led by admiral Themistocles. Themistocles is forced to an unwilling alliance with the traditional rival of Athens, oligarchic Sparta whose might lies with its superior infantry troops. But Xerxes still reigns supreme in numbers over sea and land.",
-    "cast": "Sullivan Stapleton, Eva Green, Lena Headey",
-	"director":  "Noam Murro",
-    "year": "2014",
-    "trailer": "https://www.youtube.com/watch?v=2zqy21Z29ps"
+	"id": "038029",
+	"title": "Passengers",
+    "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038029.jpg",
+    "summary": "A company offers people the opportunity to leave the Earth and live on a new colony called Homestead 2. They are being transported on a space vessel called the Avalon. The journey takes 120 years so the travelers and crew are kept in hibernation chambers while the ship flies on its own and are to be awaken just before they arrive. When one passenger -Jim Preston - is awoken, he goes around the ship he discovers he's the only one awake, having been woken 90 years early. He tries to reenter his hibernation pod but can't, and spends the next year by himself. He looks at the videos of the other passengers and one, Aurora Lane, intrigues him. He then has to decide if he should wake her up. Eventually he does and they try to make the best of their time together. But then they realise; something must've happened to the ship for it to awaken him, and they set out to find out what it is.",
+    "cast": "Jennifer Lawrence, Chris Pratt, Michael Sheen",
+	"director":  "Morten Tyldum",
+    "year": "2016",
+    "trailer": "https://www.youtube.com/watch?v=7BWWWQzTpNU"
 }
